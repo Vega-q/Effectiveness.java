@@ -6,10 +6,7 @@ abstract class Employee {
 }
 
     class YearWorker extends Employee{
-        public double earnings(){
-
-            return 12000;
-        }
+    
 
     }
 
